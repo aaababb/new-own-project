@@ -1,0 +1,79 @@
+.profile-word{
+    /* margin: 10px auto; */
+    margin-left: 175px;
+    color: rgb(0, 0, 0);
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0%;
+}
+
+.profile{
+    width: 372px;
+    height: 40px;
+    border-radius: 4px;
+    background: rgb(233, 233, 233);
+    display: flex;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-top: 5px;
+    /* border: 1px solid red; */
+}
+.profile img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.profile-s{
+    margin-left: 20px;
+    margin-top: 5px;
+    color: rgb(3, 3, 3);
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.registration{
+    width: 372px;
+    height: 478px;
+    border-radius: 4px;
+    background: rgb(233, 233, 233);
+    margin: 20px auto;
+    /* border: 1px solid red; */
+}
+.registration input{
+    width: 332px;
+    height: 30px;
+    margin: 10px auto;
+    margin-left: 15px;
+    border-radius: 6px;
+    padding-left: 5px;
+    outline: none;
+}
+.register-btn{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 150px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 4px;
+}
+.have-account{
+    display: flex;
+    margin: 34px auto;
+    margin-left: 60px;
+    gap: 10px;
+}
+.have-account p{
+    /* Title/16PX Regular */
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}

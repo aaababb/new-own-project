@@ -1,0 +1,28 @@
+.footer{
+    width: 414px ;
+    height: 57px;
+    margin: 0px auto;
+    /* border-radius: 15px; */
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background: rgb(70, 128, 204);
+}
+.footer-home{
+    margin-left: 35px;
+    margin-top: 13px;
+}
+.footer-like{
+    margin-left: 27px;
+    margin-top: 13px;
+}
+.footer-plus{
+    margin-left: 45px;
+}
+.footer-sms{
+    margin-left: 51px;
+    margin-top: 13px;
+}
+.footer-contact{
+    margin-left: 31px;
+    margin-top: 13px;
+}
